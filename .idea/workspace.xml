@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="9258175e-c263-48f1-a093-cc6ab171f19b" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test1.html" />
+=======
+    <list default="true" id="3a6968c1-f020-4ffb-a9d9-8477e2bed6f8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
     </list>
     <ignored path="test-roiet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,8 +28,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="test1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test1.html">
+=======
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -33,6 +43,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -42,13 +53,31 @@
       </list>
     </option>
   </component>
+=======
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23876405">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/test1.html" />
+=======
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
       </list>
     </option>
   </component>
@@ -62,7 +91,11 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
+<<<<<<< HEAD
     <option name="width" value="1382" />
+=======
+    <option name="width" value="1378" />
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -88,6 +121,10 @@
       <sortByType />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,15 +145,21 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+=======
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -155,15 +198,26 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="9258175e-c263-48f1-a093-cc6ab171f19b" name="Default" comment="" />
       <created>1436346966372</created>
       <option name="number" value="Default" />
       <updated>1436346966372</updated>
+=======
+      <changelist id="3a6968c1-f020-4ffb-a9d9-8477e2bed6f8" name="Default" comment="" />
+      <created>1436346904163</created>
+      <option name="number" value="Default" />
+      <updated>1436346904163</updated>
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -193,7 +247,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/test1.html">
+=======
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -201,5 +259,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23876405">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 1e210651e5bb678f2cb2695067e5dfaa23375a1e
   </component>
 </project>
